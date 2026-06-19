@@ -176,6 +176,8 @@ Tracing how addressing changes hop-by-hop is exactly what a network engineer doe
 
 ## References
 
+- [Jeremy's IT Lab — The Life of a Packet | Day 12 | CCNA 200-301 Complete Course](https://www.youtube.com/watch?v=4YrYV2io3as)
+- [Jeremy's IT Lab — Full CCNA Course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 - [Cisco — Understanding ARP (Address Resolution Protocol)](https://www.cisco.com/c/en/us/support/docs/ip/address-resolution-protocol-arp/13718-5.html)
 - [Cisco — IP Routing: Protocol-Independent Configuration Guide](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_pi/configuration/xe-16/irp-xe-16-book.html)
 - [Cisco — `show interfaces` Command Reference](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/fundamentals/command/reference/cf_command_ref/sh_a1-sh_az.html)
