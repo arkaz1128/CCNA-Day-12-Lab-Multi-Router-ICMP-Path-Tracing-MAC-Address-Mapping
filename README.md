@@ -180,7 +180,4 @@ Tracing how addressing changes hop-by-hop is exactly what a network engineer doe
 - [Jeremy's IT Lab — Full CCNA Course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 - [Cisco — Understanding ARP (Address Resolution Protocol)](https://www.cisco.com/c/en/us/support/docs/ip/address-resolution-protocol-arp/13718-5.html)
 - [Cisco — IP Routing: Protocol-Independent Configuration Guide](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_pi/configuration/xe-16/irp-xe-16-book.html)
-- [Cisco — `show interfaces` Command Reference](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/fundamentals/command/reference/cf_command_ref/sh_a1-sh_az.html)
 - [Cisco Networking Academy — Packet Tracer](https://www.netacad.com/courses/packet-tracer)
-- [IETF RFC 826 — An Ethernet Address Resolution Protocol (ARP)](https://datatracker.ietf.org/doc/html/rfc826)
-- [IETF RFC 792 — Internet Control Message Protocol (ICMP)](https://datatracker.ietf.org/doc/html/rfc792)
